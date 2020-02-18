@@ -1,7 +1,7 @@
 # Intro to Marketing Analytics
 
 ## Overview
-This is the repository for the workshop held on 17 Jan 2020 at Beirut Digital District to introduce the Business AI workshop with a specific application on how to use 
+This is the repository for the workshop held on 17 Jan 2020 at Beirut Digital District to introduce the Business AI workshops. Attendees learned how to think about AI problems from a business perspective, learned about tools like Power BI, and applied this knowledge in solving a bank marketing business case.
 
 ### Business AI Workshop Concept
 
